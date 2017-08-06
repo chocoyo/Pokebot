@@ -1,1 +1,24 @@
-# Pokebot
+# PokéNotify
+
+PokéNotify Is A Discord Bot That Notifies You Of Raids You Have Signed Up For
+
+## Download
+Do Not Git Clone This Repo, Grab One Of The Releases
+
+## Depencies
+
+### Node.Js
+
+Node.Js Is A JavaScript Runtime That This Project Was Built On
+
+```
+https://nodejs.org/en/
+```
+
+### Discord.Js
+
+Discord.Js Is Need To Interact With The Discord API
+
+```
+npm install --save discord.js
+```
