@@ -1,11 +1,11 @@
-# PokÈNotify
+# Pok√©Notify
 
-PokÈNotify Is A Discord Bot That Notifies You Of Raids You Have Signed Up For
+Pok√©Notify Is A Discord Bot That Notifies You Of Raids You Have Signed Up For
 
 ## Download
 Do Not Git Clone This Repo, Grab One Of The Releases
 
-## Depencies
+## Dependencies
 
 ### Node.Js
 
