@@ -3,7 +3,7 @@
 PokéNotify Is A Discord Bot That Notifies You Of Raids You Have Signed Up For
 
 ## Download
-Do Not Git Clone This Repo, Grab One Of The Releases
+This Project Was Never Put Into Production So There Are No Releases.
 
 ## Dependencies
 
