@@ -9,6 +9,6 @@
   "author": "Chocoyo (Mike Hodges)",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.1.0"
+    "discord.js": "^11.6.4"
   }
 }
